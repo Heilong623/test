@@ -19,7 +19,7 @@ the instruction sets of  a computer: **CISC** and **RISC**.*
 
 ---------------------------------------------------------------------
 
-## 1. [Central Processing Unit](first.md)
+## 1. [first](first.md)
 
 ## 2. [Main Memory](memory.md)
 
