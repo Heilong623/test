@@ -7,7 +7,7 @@
 ## content
 
 Logistic regression algorithm is a common nonlinear binary dependent variable regression statistical model, which is also widely used in the field of machine learning. The parameters of the algorithm are estimated by the maximum likelihood estimation method, which is consistent with the asymptotic normality. Logistic regression algorithm is based on linear regression algorithm, adding logit transform to deal with nonlinear situation
-![text]([灵笼 - 国内版 Bing images](https://cn.bing.com/images/search?view=detailV2&ccid=OGy2ecQ4&id=F7398F65CB6736840FD36141795C06197BC47BB5&thid=OIP.OGy2ecQ49PKSPa1dmoTQYAHaEo&mediaurl=https%3a%2f%2fzugou.oss-cn-shanghai.aliyuncs.com%2fpublic%2f2020%2f07%2f04%2f159381060260407.png&exph=1360&expw=2177&q=%e7%81%b5%e7%ac%bc&simid=608018707498106387&ck=B2DC0133DCDD5E8DF765B086C9373166&selectedIndex=0&FORM=IRPRST&ajaxhist=0))
+![](https://cn.bing.com/images/search?view=detailV2&ccid=wGhzipcD&id=B68264E8584125ED98DCF84CD925E2472FC7B7CC&thid=OIP.wGhzipcD515xv91ZN-2PZQHaDt&mediaurl=https%3a%2f%2fi0.hdslb.com%2fbfs%2farticle%2fb650ce42f70aa53853e1147fd9b0964859b4785d.jpg&exph=720&expw=1440&q=%e7%81%b5%e7%ac%bc%e5%a3%81%e7%ba%b8&simid=608052474529605739&ck=1FC807A0E540954A51B5EAFD940B44B5&selectedIndex=68&FORM=IRPRST&ajaxhist=0)
 
 1. *Distinguish between the **three components** of a computer hardware.*
 2. *List the functionality of each component.*
